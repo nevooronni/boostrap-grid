@@ -1,0 +1,70 @@
+div {
+  margin: 0;
+  padding: 0;
+  height: 135px;
+}
+  
+#red {
+  background-color: red;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#black {
+  background-color: black;
+}
+
+#white {
+  background-color: white;
+}
+
+#orange {
+  background-color: orange;
+}
+
+#purple {
+  background-color: purple;
+}
+
+#teal {
+  background-color: teal;
+}
+
+#indigo {
+  background-color: indigo;
+}
+
+#pink {
+  background-color: pink;
+}
+
+#grey {
+  background-color: grey;
+}
+
+
+#green {
+  background-color: green;
+}
+
+#gold {
+  background-color: #CC9900;
+}
+
+#magenta {
+  background-color: magenta;
+}
+
+#burgundy {
+  background-color: #800020;
+}
